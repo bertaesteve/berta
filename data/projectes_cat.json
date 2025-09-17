@@ -105,6 +105,16 @@
     "feina": "co-curadoria i comunicació",
     "any": "2023"
   },
+    {
+    "categoria": "curadoria",
+    "slug": "backrooms-tesis",
+    "titol": "the backrooms",
+    "espai": "eina",
+    "ciutat": "barcelona",
+    "text": "prototip expositiu",
+    "feina": "",
+    "any": "2022"
+  },
 
   {
     "categoria": "investigacio",
@@ -160,7 +170,16 @@
     "feina": "",
     "any": "2024"
   },
-
+{
+    "categoria": "exposicions",
+    "slug": "liminal-hunting",
+    "titol": "liminal hunting",
+    "espai": "online",
+    "ciutat": "",
+    "text": "projecte de fotografia",
+    "feina": "",
+    "any": "2022 - present"
+  },
   {
     "categoria": "exposicions",
     "slug": "vip-zone",
