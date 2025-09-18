@@ -48,6 +48,14 @@
     {
       "titol": "pls! i'm a star!: espai balda",
       "slug": "espai-balda"
+    },
+     {
+      "titol": "cap a una investigació performàtica",
+      "slug": "investigacio-performatica"
+    },
+     {
+      "titol": "berta esteve is not illiterate (anymore)",
+      "slug": "not-illiterate"
     }
   ]
 }
