@@ -1,6 +1,17 @@
 [
    {
     "categoria": "curadoria",
+    "slug": "caixa-sorpresa",
+    "titol": "caixa sorpresa grup d'estudi",
+    "espai": "la capella",
+    "ciutat": "barcelona",
+    "text": "exposició comissariada a l'Espai Rampa",
+    "feina": "curadoria i coordinació",
+    "any": 2025
+  },
+
+   {
+    "categoria": "curadoria",
     "slug": "30-anys-de-can-baste",
     "titol": "30 anys de can basté",
     "espai": "can basté",
@@ -151,6 +162,17 @@
 
   {
     "categoria": "exposicions",
+    "slug": "la-gran-cura",
+    "titol": "la gran cura; tot tombant, convoco",
+    "espai": "lo pardal",
+    "ciutat": "agramunt",
+    "text": "exposició col·lectiva amb Laura Albajar i Enric Marzà per Lo Niu '25",
+    "feina": "com a unfunny_curator",
+    "any": "2025"
+  },
+
+  {
+    "categoria": "exposicions",
     "slug": "the-curators-project",
     "titol": "the curator's project, del poder sobre el poder",
     "espai": "estructuras 3000",
@@ -214,6 +236,16 @@
   },
 
  {
+    "categoria": "mediacio",
+    "slug": "meditacio-massana",
+    "titol": "masterclass, tot anirà bé",
+    "espai": "escola massana",
+    "ciutat": "barcelona",
+    "text": "classe",
+    "feina": "ponència + meditació pel tfg",
+    "any": "2025"
+  },
+{
     "categoria": "mediacio",
     "slug": "master-expos",
     "titol": "masterclass, màster d'exposicions d'eina",
