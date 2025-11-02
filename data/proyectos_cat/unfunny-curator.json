@@ -1,5 +1,5 @@
 {
-  "titol": "♥︎unfunny _curator♥︎",
+  "titol": "sobre unfunny _curator",
   "any": "actualitat",
   "lloc": "",
   "ciutat": "",
@@ -25,6 +25,14 @@
     "img/unfunnyCurator/10.jpg"
   ],
   "projectes_relacionats": [
+     {
+      "titol": "masterclass: tot anirà bé",
+      "slug": "meditacio-massana"
+    },
+    {
+      "titol": "la gran cura",
+      "slug": "la-gran-cura"
+    },
     {
       "titol": "the curator's project",
       "slug": "the-curators-project"
