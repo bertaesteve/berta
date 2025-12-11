@@ -1,7 +1,7 @@
 {
   "titol": "this is a networking data visualization ;-)",
   "any": 2025,
-  "lloc": "<a href=http://angelsbarcelona.com/>àngels barcelona espai 2</a>",
+  "lloc": "<a href='http://angelsbarcelona.com/'target='_blank'>àngels barcelona espai 2</a>",
   "ciutat": "Barcelona",
   "imatge_principal": "",
   "projectes_relacionats": [],
